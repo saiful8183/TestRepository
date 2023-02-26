@@ -5,8 +5,8 @@ public class DoWhileLoop {
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
 
-
-		String place="Brooklyn";
+       // Change the location
+		String place="Queens";
 		int start=1;
 		
 		do

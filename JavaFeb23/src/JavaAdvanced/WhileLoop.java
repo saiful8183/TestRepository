@@ -6,8 +6,8 @@ public class WhileLoop {
 		// TODO Auto-generated method stub
 
 		
-		
-		String place="Brooklyn";
+		//Made change
+		String place="The Bronx";
 		int start=1;
 		
 		while(start<=3) {
